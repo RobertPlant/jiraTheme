@@ -29,3 +29,7 @@ form.aui option,
     background: $secondary !important;
     color: $primary !important;
 }
+
+.atlassian-autocomplete .suggestions li {
+    color: $primary;
+}

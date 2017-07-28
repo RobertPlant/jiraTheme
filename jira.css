@@ -44,9 +44,11 @@ form.aui option,
   background: #1a1a1a !important;
   color: #ededed !important; }
 
+.atlassian-autocomplete .suggestions li {
+  color: #ededed; }
+
 #syntaxplugin span[style*="black"] {
   color: #FFFFFF !important; }
-
 #syntaxplugin span[style*="blue"] {
   color: #42769a !important; }
 
