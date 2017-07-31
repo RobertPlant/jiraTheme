@@ -49,7 +49,6 @@ form.aui option,
 
 #syntaxplugin span[style*="black"] {
   color: #FFFFFF !important; }
-
 #syntaxplugin span[style*="blue"] {
   color: #42769a !important; }
 
@@ -94,6 +93,9 @@ code {
 .ghx-columns .ghx-busted,
 .ghx-columns .ghx-busted-max {
   background: #8b0000 !important; }
+
+.ghx-column h2 {
+  color: #ededed !important; }
 
 .ghx-backlog-header,
 .ghx-end {
