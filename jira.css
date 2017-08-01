@@ -205,7 +205,7 @@ h4 {
   color: #ededed !important; }
 
 .aui-message {
-  color: #ededed; }
+  color: #ededed !important; }
 
 .layout .column .placeholder,
 .layout .column.empty .empty-text {
